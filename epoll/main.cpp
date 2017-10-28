@@ -23,10 +23,7 @@
 #define READ_EVENT 1
 #define WRITE_EVENT 2
 
-//const int kReadEvent  = 1;
-//const int kWriteEvent = 2;
 int listenfd;
-
 
 /**
  * 将socket设置为非阻塞
