@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "22B980DBAF0DFB3BB3BB8AB3FDD2E88753F7E583",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "22B980DBAF0DFB3BB3BB8AB3FDD2E88753F7E583" : 9223372036854775807,
+    "E593B385BC96BC67FB23E33CB99154CFF075C4A9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E3045E2-DC5C-4CFB-96DA-4D714022E493",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "22B980DBAF0DFB3BB3BB8AB3FDD2E88753F7E583" : "epoll\/",
+    "E593B385BC96BC67FB23E33CB99154CFF075C4A9" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "epoll",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "epoll.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jilieryuyi\/kqueue-simple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22B980DBAF0DFB3BB3BB8AB3FDD2E88753F7E583"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jilieryuyi\/wing-c.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E593B385BC96BC67FB23E33CB99154CFF075C4A9"
+    }
+  ]
+}

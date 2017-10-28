@@ -471,7 +471,7 @@ int main()
     signal(SIGHUP, sig_handle);
     signal(SIGTERM, sig_handle);
     
-    for (;;) { //实际应用应当注册信号处理函数，退出时清理资源
+    for (;;) {
         loop(epollfd, server, 1000);
     }
     
